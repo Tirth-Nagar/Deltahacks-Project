@@ -28,7 +28,7 @@ function firebase() {
 }
 
 function App() {
-  firebase();
+  // firebase();
   return (
     <div className="App">
       <header className="App-header">
