@@ -1,0 +1,1 @@
+# Write a function that returns a boolean depending on whether the circuit is open or closed
